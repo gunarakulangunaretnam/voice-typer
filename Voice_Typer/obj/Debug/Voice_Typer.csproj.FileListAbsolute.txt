@@ -11,3 +11,6 @@ c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typ
 c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.WindowsForms.dll
 c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.pdb
 c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.WindowsForms.pdb
+D:\2-my-education\8-projects\0-my-projects\0-ai-and-ml\voice-typer\Voice_Typer\bin\Debug\Voice_Typer.exe.config
+D:\2-my-education\8-projects\0-my-projects\0-ai-and-ml\voice-typer\Voice_Typer\obj\Debug\Voice_Typer.exe
+D:\2-my-education\8-projects\0-my-projects\0-ai-and-ml\voice-typer\Voice_Typer\obj\Debug\Voice_Typer.pdb
