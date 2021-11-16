@@ -20,7 +20,6 @@ C# is to used for user interface desgin and handles the logic behind swtiching b
 - Keyboard
 - Playsound
 - Google SpeechRecognition
-- Pynput
 
 
 #### Technical Requirements
