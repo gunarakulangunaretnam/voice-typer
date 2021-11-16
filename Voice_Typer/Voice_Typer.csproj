@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>2890584_ai_artificial intelligence_automaton_brain_electronics_icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="NHotkey, Version=2.0.0.0, Culture=neutral, PublicKeyToken=a76ffb086700b11c, processorArchitecture=MSIL">
       <HintPath>..\packages\NHotkey.2.1.0\lib\net45\NHotkey.dll</HintPath>
@@ -97,6 +100,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Ai-4life-web-white-bg-100.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2890584_ai_artificial intelligence_automaton_brain_electronics_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

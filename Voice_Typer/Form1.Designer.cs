@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.english = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.sinhala = new System.Windows.Forms.Button();
@@ -186,6 +187,7 @@
             this.Controls.Add(this.sinhala);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.english);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
