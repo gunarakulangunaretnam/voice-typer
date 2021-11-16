@@ -63,6 +63,16 @@ namespace Voice_Typer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Ai_4life_web_white_bg_100 {
+            get {
+                object obj = ResourceManager.GetObject("Ai-4life-web-white-bg-100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_size {
             get {
                 object obj = ResourceManager.GetObject("logo_size", resourceCulture);
