@@ -1,0 +1,13 @@
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\Voice_Typer.exe.config
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.csprojResolveAssemblyReference.cache
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.Form1.resources
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.Properties.Resources.resources
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.csproj.GenerateResource.Cache
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\Voice_Typer.exe
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\Voice_Typer.pdb
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.exe
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\obj\Debug\Voice_Typer.pdb
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.dll
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.WindowsForms.dll
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.pdb
+c:\users\jokerhacker\documents\visual studio 2015\Projects\Voice_Typer\Voice_Typer\bin\Debug\NHotkey.WindowsForms.pdb
