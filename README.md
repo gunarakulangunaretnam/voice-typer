@@ -85,8 +85,8 @@ C# is to used for user interface desgin and handles the logic behind swtiching b
 Any Questions? | Conduct Me
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaratnam-161119156/)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/)
 * [Facebook Profile](https://www.facebook.com/gunarakulan)
 * [Twitter Profile](https://twitter.com/gunarakulang)
-* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaratnam/)
+* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
 * [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
