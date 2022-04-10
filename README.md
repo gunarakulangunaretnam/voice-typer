@@ -1,5 +1,7 @@
+# Voice Typer
 
-# Introduction to Voice Typer
+
+## Introduction
 
 This is a simple program that can be used to type with voice inputs. It supports 3 languages, those are Tamil, Sinhala, and English. This system can be used to type anywhere within a computer program. It converts the voice into the text and writes that text in the place where the cursor is pointed.
 
@@ -11,7 +13,7 @@ Voice Typer is written in Python and, C#. The main voice conversion process is h
 
 C# is to used for user interface desgin and handles the logic behind swtiching between languages.
 
-#### Programming Languages & Frameworks
+## Technology & Frameworks
 - Python
 - C#
 - Argparse
@@ -22,14 +24,12 @@ C# is to used for user interface desgin and handles the logic behind swtiching b
 - Google SpeechRecognition
 
 
-#### Technical Requirements
+### Technical Requirements
 
 - Python 3
 - .NET Framework 4.5.2
 
 ## Configuration & Setup
-
-#### Installing Necessary Packages in Python
 
 - Installing argparse
 
@@ -67,15 +67,20 @@ C# is to used for user interface desgin and handles the logic behind swtiching b
     pip install pynput
   ```
 
+## Demo
 
-## Run Method 1
+![IMAGE](github-readme-contents/demo.jpg)
+
+## Execution and Running
+
+### Run Method 1
 
 
 ```
   Execute the (voice_typer.exe) that is found on "Voice_Typer\bin\Debug"
 ```
 
-## Run Method 2
+### Run Method 2
 
 ```
   Open the project using Visual Studio and click debuging to run the project.
