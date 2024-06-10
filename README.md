@@ -1,4 +1,4 @@
-# VOICE TYPER
+# Voice Typer
 
 ## Introduction
 
@@ -86,7 +86,7 @@ C# is to used for user interface desgin and handles the logic behind swtiching b
 ```
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
